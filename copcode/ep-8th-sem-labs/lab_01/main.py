@@ -53,7 +53,7 @@ def expirement_list(root):
 
 
 if __name__ == '__main__':
-    root.title("Планирование эксперимента, ЛР1, Кононенко С. ИУ7-83Б")
+    root.title("Планирование эксперимента, ЛР1")
     root.geometry('600x300')
     f_view = Frame(root)
     expirement_list(f_view)

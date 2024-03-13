@@ -1,7 +1,7 @@
 from typing import List, Union
 
-from lab1.generator import Generator
-from lab1.processor import Processor
+from generator import Generator
+from processor import Processor
 
 
 class Modeller:

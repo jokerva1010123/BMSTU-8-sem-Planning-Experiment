@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox, QRadioButton
 from PyQt5 import uic
 
-from lab1.generator import Generator
-from lab1 import distributions
-from lab1.modeller import Modeller
-from lab1.processor import Processor
+from generator import Generator
+import distributions
+from modeller import Modeller
+from processor import Processor
 import time
 
 show = True

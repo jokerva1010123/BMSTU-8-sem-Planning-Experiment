@@ -1,4 +1,4 @@
-from lab1 import distributions
+import distributions
 
 
 class Processor:

@@ -1,6 +1,6 @@
 from typing import List, Union
-from lab1 import distributions
-from lab1.processor import Processor
+import distributions
+from processor import Processor
 
 
 class Generator:
