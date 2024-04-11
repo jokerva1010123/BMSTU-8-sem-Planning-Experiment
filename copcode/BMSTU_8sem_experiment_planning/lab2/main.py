@@ -6,11 +6,11 @@ from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox, QTableWidget, QTableWidgetItem, QPushButton, \
     QGroupBox
 
-from lab2.horse import Horse
-from lab2.queue import distributions
-from lab2.queue.generator import Generator
-from lab2.queue.modeller import Modeller
-from lab2.queue.processor import Processor
+from horse import Horse
+from queue import distributions
+from queue.generator import Generator
+from queue.modeller import Modeller
+from queue.processor import Processor
 
 ROUND_TO = 5
 

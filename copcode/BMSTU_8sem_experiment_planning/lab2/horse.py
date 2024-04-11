@@ -1,7 +1,7 @@
-from lab2.queue.processor import Processor
-from lab2.queue.generator import Generator
-from lab2.queue.modeller import Modeller
-from lab2.queue import distributions
+from queue.processor import Processor
+from queue.generator import Generator
+from queue.modeller import Modeller
+from queue import distributions
 import numpy as np
 
 FACTORS_NUMBER = 3
