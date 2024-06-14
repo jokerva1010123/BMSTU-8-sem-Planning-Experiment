@@ -2,7 +2,7 @@ import numpy as np
 from PyQt5 import uic, QtCore
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox, QTableWidgetItem, QDialog
 
-from lab3.horse import Horse, FACTORS_NUMBER
+from horse import Horse, FACTORS_NUMBER
 
 ROUND_TO = 3
 

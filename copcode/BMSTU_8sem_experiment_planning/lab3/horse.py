@@ -4,10 +4,10 @@ from math import factorial
 from collections import defaultdict
 from copy import deepcopy
 
-from lab3.queue import distributions
-from lab3.queue.generator import Generator
-from lab3.queue.modeller import Modeller
-from lab3.queue.processor import Processor
+import distributions
+from generator import Generator
+from modeller import Modeller
+from processor import Processor
 
 FACTORS_NUMBER = 6
 M_SIZE = 2 ** FACTORS_NUMBER

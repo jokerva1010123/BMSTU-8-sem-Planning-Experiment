@@ -1,7 +1,7 @@
 from typing import List, Union
 
-from lab3.queue.generator import Generator
-from lab3.queue.processor import Processor
+from generator import Generator
+from processor import Processor
 
 EPS = 1e-6
 

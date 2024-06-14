@@ -1,4 +1,4 @@
-from lab3.queue import distributions
+import distributions
 
 from typing import List
 
